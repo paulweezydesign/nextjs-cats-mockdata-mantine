@@ -3,7 +3,7 @@ module.exports = {
   corePlugins: {
     preflight: false,
   },
-  content: ['./src/**/*.{js,jsx,ts,tsx}'],
+  content: ['./**/*.{js,jsx,ts,tsx}'],
   presets: [],
   darkMode: 'class', // or 'class'
   theme: {
